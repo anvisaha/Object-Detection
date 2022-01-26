@@ -1,0 +1,18 @@
+.top {
+    height:80px;
+    width:400px;
+    font-size: 40px;
+    margin: 30px;
+    border: 4px solid rgb(26, 126, 54);
+}
+
+a {
+    font-size: 20px;
+    color:rgb(39, 160, 65);
+    width: 100;
+  }
+
+  canvas {
+    box-shadow: 10px 10px 10px 10px grey;
+    border-radius: 10px;
+}
